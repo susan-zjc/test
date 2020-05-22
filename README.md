@@ -26,3 +26,4 @@ The latest version follows the procedure of human painting process.
 >- Automatic rendering (separated layer)
 >- Automatic rendered colorization
 ## Acknowledgment
+lllyasviel, lrisviel, abbychau, dexhunter, alantian, WeiChiaChang
