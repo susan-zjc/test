@@ -1,13 +1,12 @@
 # AI colouring tool
 Link to this project. [style2paints](https://github.com/lllyasviel/style2paints)
+
 ## Introductoin
 It is an AI-driven coloring tool for line drafts, which can be colored according to the user's upload of customized colors.
 The latest version follows the procedure of human painting process.
-|human|tool|
-|sketching|lineart layers|
-|color filling|flat color layers|
-|details|gradient layers|
-|shading|shading layers|
+
+
+
 ## Inputs and Outputs
 >Inputs:
 
